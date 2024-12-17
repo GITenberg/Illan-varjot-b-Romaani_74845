@@ -1,0 +1,32 @@
+_repo: Illan-varjot-b-Romaani_74845
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nieminen, Kaarlo
+    birthdate: 1887
+    deathdate: 1955
+    gutenberg_agent_id: '47208'
+    url: http://www.gutenberg.org/2009/agents/47208
+creator:
+  author:
+    agent_name: Keyserling, Eduard von
+    gutenberg_agent_id: '57684'
+    url: http://www.gutenberg.org/2009/agents/57684
+description: ''
+gutenberg_issued: '2024-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74845'
+language: fi
+pgterms:marc905: 20241102011338keyserling
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Illan varjot : $b Romaani'
+url: http://www.gutenberg.org/ebooks/74845
