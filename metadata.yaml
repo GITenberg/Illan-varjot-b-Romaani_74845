@@ -7,12 +7,17 @@ contributor:
     deathdate: 1955
     gutenberg_agent_id: '47208'
     url: http://www.gutenberg.org/2009/agents/47208
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keyserling, Eduard von
     gutenberg_agent_id: '57684'
     url: http://www.gutenberg.org/2009/agents/57684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74845#Illan-varjot-b-Romaani
 gutenberg_issued: '2024-12-06'
 gutenberg_type: Text
 identifiers:
